@@ -47,7 +47,7 @@ const Video = (props) => {
           <i class="fa fa-thumbs-up fa-3x like i" aria-hidden="true" ></i>
           </div>
           {/* <FiThumbsUp onClick={handleClickLike}></FiThumbsUp> */}
-          <FiShare2></FiShare2>
+          {/* <FiShare2></FiShare2> */}
           </div>
           
       </div>
